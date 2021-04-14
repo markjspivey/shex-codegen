@@ -4722,7 +4722,7 @@ rdf-canonize@^2.0.1:
     semver "^6.3.0"
     setimmediate "^1.0.5"
 
-rdflib@^2.2.0:
+rdflib@2.2.0, rdflib@^2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/rdflib/-/rdflib-2.2.0.tgz#722456ca85500b020359f8ade21ccba30af81444"
   integrity sha512-qsBOEkGoNBtt/dY52QMU35IP9XngkFd+YK/vpgXBPcpLai2onPxhI789wgdxxxaJo0C+ZU6zRYL/J412BnL0vw==
@@ -5109,7 +5109,7 @@ shellwords@^0.1.1:
   resolved "https://registry.yarnpkg.com/shellwords/-/shellwords-0.1.1.tgz#d6b9181c1a48d397324c84871efbcfc73fc0654b"
   integrity sha512-vFwSUfQvqybiICwZY5+DAWIPLKsWO31Q91JSKl3UYv+K5c2QRPzn0qzec6QPu1Qc9eHYItiP3NdJqNVqetYAww==
 
-shex-methods@^0.1.4:
+shex-methods@0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/shex-methods/-/shex-methods-0.1.4.tgz#21bb30053293adaf39c954fbf6d418f81725ea3a"
   integrity sha512-arvgJxlI6ljqgX+5SUrHGQitYdT09OOAwQ9oakS7WkvG6gPkDjmfpbPOiecIWsjkCYqYibn8W8OwJ7Syn3DylQ==
